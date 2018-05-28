@@ -91,7 +91,7 @@ def passdicgen(filepath):
 
 def usage():
 	print '''
-shellcrack v1.0 code by petestdoc.org
+shellcrack v1.0 code by pentestlab.net
 '''
 	print "<Usage>: python shellcrack.py -u \"http://www.test.com/shell.php\" [options]\n"
 	print "[options]:"
